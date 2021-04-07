@@ -1,0 +1,2 @@
+# WasteClassification
+Pytorch implementation
