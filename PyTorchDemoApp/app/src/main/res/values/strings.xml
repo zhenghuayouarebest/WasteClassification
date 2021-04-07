@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">PyTorchDemo</string>
+    <string name="app_name">垃圾分类</string>
     <string name="action_settings">Settings</string>
     <string name="welcome_skip_button">Skip</string>
-    <string name="main_vision_button">Vision</string>
+    <string name="main_vision_button">垃圾分类</string>
     <string name="main_nlp_button">Language</string>
 
     <string name="vision_list_image_classification_button">Image Classification</string>

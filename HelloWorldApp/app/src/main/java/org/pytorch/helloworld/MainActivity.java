@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     try {
       // creating bitmap from packaged into app android asset 'image.jpg',
       // app/src/main/assets/image.jpg
-      bitmap = BitmapFactory.decodeStream(getAssets().open("image.jpg"));
+      bitmap = BitmapFactory.decodeStream(getAssets().open("cat.jpg"));
       // loading serialized torchscript module from packaged into app android asset model.pt,
       // app/src/model/assets/model.pt
       module = Module.load(assetFilePath(this, "model.pt"));

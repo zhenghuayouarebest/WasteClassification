@@ -22,6 +22,7 @@
             android:layout_gravity="center"
             android:drawableTop="@drawable/ic_vision_s"
             android:text="@string/main_vision_button"
+            android:textStyle="normal"
             android:drawablePadding="16dp"
             android:textAppearance="@style/TextAppearanceMainVisionNlp" />
     </FrameLayout>
